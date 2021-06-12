@@ -1,0 +1,16 @@
+a,
+h2 {
+  color: slateblue;
+}
+
+* {
+  text-decoration: none;
+}
+
+section {
+  padding: 20px 50px;
+}
+
+li {
+  list-style: none;
+}
